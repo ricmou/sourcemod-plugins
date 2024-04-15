@@ -1,0 +1,16 @@
+"Phrases"
+{
+	"Tag"
+	{
+		"en"		"{#FF69B4}CTimer {#DDDDDD}- "
+	}
+	"SpawnProtOn"
+	{
+		"en"		"{#DDDDDD}Spawn protection detected, respawn is now {#97C7F1}disabled{#DDDDDD}."
+	}
+	"Respawn"
+	{
+		"#format"	"{1:i}"
+		"en"		"{#DDDDDD}You will be respawned in {#97C7F1}{1} seconds{#DDDDDD}."
+	}
+}

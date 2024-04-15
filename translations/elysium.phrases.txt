@@ -1,0 +1,42 @@
+"Phrases"
+{
+	"Tag"
+	{
+		"en"		"{#FF69B4}CTimer {#DDDDDD}- "
+	}
+	"NoVote"
+	{
+		"en"		"{#DDDDDD}Extend voting not available yet."
+	}
+	"YouVoted"
+	{
+		"#format"	"{1:s},{2:i},{3:i}"
+		"en"		"{default}{1} {#DDDDDD}voted to extend the map ({#97C7F1}{2} {#DDDDDD}votes, {#97C7F1}{3}{#DDDDDD} required)."
+	}
+	"YouCanVote"
+	{
+		"en"		"{#DDDDDD}Vote Extend is now {#97C7F1}avaliable{#DDDDDD}. Type {#97C7F1}!ve {#DDDDDD}to vote to extend"
+	}
+	"VoteSuccess"
+	{
+		"#format"	"{1:i}"
+		"en"		"{#DDDDDD}Vote successful. Map has been extended for {#97C7F1}{1}{#DDDDDD} minutes."
+	}
+	"MapEnd"
+	{
+		"#format"	"{1:s}"
+		"en"		"{#DDDDDD}Map ended, next map is {default}{1}{#DDDDDD}."
+	}
+	"60Sec"
+	{
+		"en"		"{#97C7F1}60 seconds {#DDDDDD}remaining."
+	}
+	"30Sec"
+	{
+		"en"		"{#97C7F1}30 seconds {#DDDDDD}remaining."
+	}
+	"10Sec"
+	{
+		"en"		"{#97C7F1}10 seconds {#DDDDDD}remaining."
+	}
+}
